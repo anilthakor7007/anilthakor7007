@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilthakor7007&label=Profile%20views&color=0e75b6&style=flat" alt="anilthakor7007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilthakor7007" alt="anilthakor7007" /></a> </p>
-👨‍💻 My Professional Portfolio : https://portfolio-delta-virid-14.vercel.app/ <br/>
+👨‍💻 All of my projects are available at [https://portfolio-delta-virid-14.vercel.app/](https://portfolio-delta-virid-14.vercel.app/)
+ <br/>
 🔭 I’m currently working on : <br/>
 Nasarna Donation Trust website : https://nasarna-donation-website.vercel.app/ <br/>
 Nasarna Donation Trust Admin web app : https://nasarna-helping-hand-donation-trust-anil-thakors-projects.vercel.app <br/>
@@ -14,8 +15,6 @@ Nasarna Donation Trust Admin web app : https://nasarna-helping-hand-donation-tru
 - 🌱 I’m currently learning **NextJs, Docker, Storybook**
 
 - 👯 I’m looking to collaborate on **Avien Clothing brand a fullstack web app**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-delta-virid-14.vercel.app/](https://portfolio-delta-virid-14.vercel.app/)
 
 - 💬 Ask me about **ReactJs, NextJs, Typescript**
 
