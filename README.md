@@ -7,7 +7,7 @@
 👨‍💻 All of my projects are available at https://portfolio-delta-virid-14.vercel.app/
  <br/>
 🔭 I’m currently working on : <br/>
-Sangeet Easy : [https://nasarna-donation-website.vercel.app/](https://www.sangeeteasy.com/) <br/>
+Sangeet Easy :(https://www.sangeeteasy.com/) <br/>
 
 - 🌱 I’m currently learning **NextJs, Docker, Storybook**
 
