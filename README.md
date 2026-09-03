@@ -7,16 +7,13 @@
 👨‍💻 All of my projects are available at https://portfolio-delta-virid-14.vercel.app/
  <br/>
 🔭 I’m currently working on : <br/>
-Nasarna Donation Trust website : https://nasarna-donation-website.vercel.app/ <br/>
-Nasarna Donation Trust Admin web app : https://nasarna-helping-hand-donation-trust-anil-thakors-projects.vercel.app <br/>
-[ Admin Credentials : anilthakor7007@gmail.com , Anil$$123 ] <br/>
-[ Customer Credentials : ricky@gmail.com , SecureP@ss123 ]
+Sangeet Easy : [https://nasarna-donation-website.vercel.app/](https://www.sangeeteasy.com/) <br/>
 
 - 🌱 I’m currently learning **NextJs, Docker, Storybook**
 
-- 👯 I’m looking to collaborate on **Avien Clothing brand a fullstack web app**
+- 👯 I’m looking to collaborate on **Sangeet Easy a music practice sute**
 
-- 💬 Ask me about **ReactJs, NextJs, Typescript**
+- 💬 Ask me about **ReactJs, NextJs, Typescript, NodeJs, MongoDB, ExpressJs**
 
 - 📫 How to reach me **anilthakor7007@gmail.com**
 
