@@ -1,37 +1,174 @@
 <h1 align="center">Hi 👋, I'm Anil Thakor</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilthakor7007&label=Profile%20views&color=0e75b6&style=flat" alt="anilthakor7007" /> </p>
+<h3 align="center">Full Stack Developer | React.js | Next.js | Node.js | TypeScript</h3>
 
-<p align="left"> <a tareget="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilthakor7007" alt="anilthakor7007" /></a> </p>
-👨‍💻 All of my projects are available at https://portfolio-delta-virid-14.vercel.app/
- <br/>
-🔭 I’m currently working on : <br/>
-Sangeet Easy : https://www.sangeeteasy.com/ <br/>
-
-- 🌱 I’m currently learning **NextJs, Docker, Storybook**
-
-- 👯 I’m looking to collaborate on **Sangeet Easy a music practice sute**
-
-- 💬 Ask me about **ReactJs, NextJs, Typescript, NodeJs, MongoDB, ExpressJs**
-
-- 📫 How to reach me **anilthakor7007@gmail.com**
-
-- ⚡ Hobby **I think I sing and play the guitar a little.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anilthakor7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anilthakor7007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thakor-anil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thakor-anil/" height="30" width="40" /></a>
-<a href="https://instagram.com/@anilive_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@anilivee_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@anilivee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anilivee" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://anil-thakor-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=flat-square" alt="Portfolio" />
+  </a>
+  <a href="mailto:anilthakor7007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/thakor-anil/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anilthakor7007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilthakor7007&show_icons=true&locale=en&layout=compact" alt="anilthakor7007" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilthakor7007&show_icons=true&locale=en" alt="anilthakor7007" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilthakor7007&" alt="anilthakor7007" /></p>
+I'm a **Full Stack Developer with 2 years of professional experience**, focused on building reliable, scalable, and user-friendly web applications.
+
+I work primarily with **React.js, Next.js, TypeScript, Node.js, Express.js, and MongoDB**, with experience across both frontend and backend development.
+
+I enjoy turning business requirements into practical software solutions, designing clean APIs, working with databases, integrating third-party systems, and improving application performance and maintainability.
+
+* 💻 2 years of experience in full-stack web development
+* 🚀 Building production-ready web applications
+* 🔧 Experienced in REST APIs, database design, authentication, and integrations
+* 🧩 Comfortable working across frontend and backend systems
+* 📚 Currently learning **Next.js, Docker, and Storybook**
+* 🎵 Outside of coding, I enjoy singing and playing guitar
+
+---
+
+## 🔭 Currently Working On
+
+### 🎵 Sangeet Easy
+
+**Sangeet Easy** is a music practice platform focused on making music learning and practice easier.
+
+🌐 **Website:** https://www.sangeeteasy.com/
+
+My work involves developing and improving the application's frontend and backend, implementing features, working with APIs, and improving the overall user experience.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+</p>
+
+### Tools & Other Technologies
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="45" height="45"/>
+</p>
+
+---
+
+## 💡 What I Work With
+
+* **Frontend Development** — React.js, Next.js, TypeScript, JavaScript
+* **Backend Development** — Node.js, Express.js, REST APIs
+* **Database Development** — MongoDB, MySQL
+* **API Integration** — Third-party APIs and external services
+* **Authentication & Authorization** — Secure application access and user management
+* **State & Data Management** — Building maintainable frontend data flows
+* **Testing** — Unit and integration testing with Jest
+* **Version Control** — Git and collaborative development workflows
+* **UI Development** — Responsive interfaces with Bootstrap and Tailwind CSS
+* **Application Integration** — Connecting web applications with external platforms and business systems
+
+---
+
+## 📌 Featured Project
+
+### Sangeet Easy
+
+A music practice platform designed to help musicians practice and improve their skills.
+
+**Focus areas:**
+
+* Modern web application architecture
+* Responsive user interfaces
+* API-driven application development
+* User-focused workflows
+* Scalable backend services
+
+🌐 https://www.sangeeteasy.com/
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anilthakor7007&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anilthakor7007&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilthakor7007&theme=transparent" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, collaborating on interesting projects, and discussing ideas around web development and technology.
+
+<p align="left">
+  <a href="https://linkedin.com/in/thakor-anil/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/anilthakor7007" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/anilivee_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@anilivee" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 📫 Contact
+
+**Email:** [anilthakor7007@gmail.com](mailto:anilthakor7007@gmail.com)
+
+**Portfolio:** https://anil-thakor-portfolio.vercel.app/
+
+---
+
+<p align="center">
+  <i>Building things, solving problems, and learning something new every day.</i>
+</p>
