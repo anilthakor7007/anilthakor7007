@@ -1,99 +1,37 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Anil Thakor</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-# ✦ Anil Thakor
-> **Full Stack Developer** · *Building reliable, scalable, and user-friendly web applications.*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilthakor7007&label=Profile%20views&color=0e75b6&style=flat" alt="anilthakor7007" /> </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=anilthakor7007&label=Profile%20Views&color=D97706&style=flat-square)](https://github.com/anilthakor7007)
-[![Portfolio](https://img.shields.io/badge/Portfolio-anil--thakor--portfolio.vercel.app-10B981?style=flat-square&logo=vercel)](https://anil-thakor-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-anilthakor7007%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anilthakor7007@gmail.com)
-
-</div>
-
----
-
-### 🏛️ Executive Summary
-
-I am a Full Stack Developer with **2 years of professional experience** engineering production-ready web applications. My focus spans designing clean REST APIs, modeling databases, integrating third-party systems, and building responsive frontend interfaces.
-
-```
-       [ Frontend ]  ✦  [ API Layer ]  ✦  [ Infrastructure ]
-  React · Next.js · TS   Node · Express · REST    MongoDB · Docker
-```
-
-- **Core Focus:** Turning business requirements into practical, performant software solutions.
-- **Current Endeavors:** Expanding expertise in **Next.js**, **Docker containerization**, and **Storybook**.
-- **Passions Outside Code:** 🎵 Singing, playing guitar, and music-tech innovation.
-
----
-
-### 🚀 Featured Project
-
-#### **Sangeet Easy** · [sangeeteasy.com](https://www.sangeeteasy.com/)
-> *A music practice platform designed to make music learning and practice easier for musicians.*
-
-- **Scope:** Full-stack development, frontend & backend architecture, API integration, and user workflow optimization.
-- **Collaboration:** Looking to collaborate on expanding the **Sangeet Easy** practice suite!
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-<div align="left">
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript (ES6+), HTML5, CSS3 |
-| **Frontend** | React.js, Next.js, Bootstrap, Tailwind CSS, Storybook |
-| **Backend & APIs** | Node.js, Express.js, REST APIs, Jest |
-| **Databases** | MongoDB, MySQL, Firebase |
-| **Tools & Platforms** | Git, Linux, Docker, Postman, Figma, Babel |
-
-</div>
-
+<p align="left"> <a tareget="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilthakor7007" alt="anilthakor7007" /></a> </p>
+👨‍💻 All of my projects are available at https://anil-thakor-portfolio.vercel.app/
 <br/>
+🔭 I’m currently working on : <br/>
+Sangeet Easy : https://www.sangeeteasy.com/ <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
+- 🌱 I’m currently learning **NextJs, Docker, Storybook**
+
+- 👯 I’m looking to collaborate on **Sangeet Easy a music practice sute**
+
+- 💬 Ask me about **ReactJs, NextJs, Typescript, NodeJs, MongoDB, ExpressJs**
+
+- 📫 How to reach me **anilthakor7007@gmail.com**
+
+- ⚡ Hobby **I think I sing and play the guitar a little.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/anilthakor7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anilthakor7007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thakor-anil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thakor-anil/" height="30" width="40" /></a>
+<a href="https://instagram.com/@anilive_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@anilivee_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@anilivee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anilivee" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 📊 GitHub Activity & Metrics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilthakor7007&show_icons=true&locale=en&layout=compact" alt="anilthakor7007" /></p>
 
-<div align="center">
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anilthakor7007&show_icons=true&locale=en" alt="anilthakor7007" /></p>
 
-[![Anil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilthakor7007&layout=compact&theme=nord&hide_border=true)](https://github.com/anilthakor7007)
-[![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilthakor7007&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/anilthakor7007)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anilthakor7007&theme=nord&hide_border=true)](https://github.com/anilthakor7007)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anilthakor7007&theme=nord&column=6&margin-w=15)](https://github.com/anilthakor7007)
-
-</div>
-
----
-
-### 🤝 Connect with Me
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anilthakor7007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thakor-anil/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anilive_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anilivee)
-
-</div>
-
----
-
-<p align="center">
-  <i>Designed with simplicity, structure, and clarity in mind.</i>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilthakor7007&" alt="anilthakor7007" /></p>
