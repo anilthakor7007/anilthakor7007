@@ -1,194 +1,99 @@
-<h1 align="center">Hi 👋, I'm Anil Thakor</h1>
+<div align="center">
 
-<h3 align="center">
-  Full Stack Developer · Building Modern & Scalable Web Applications
-</h3>
+# ✦ Anil Thakor
+> **Full Stack Developer** · *Building reliable, scalable, and user-friendly web applications.*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=anilthakor7007&label=Profile%20Views&color=D97706&style=flat-square)](https://github.com/anilthakor7007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anil--thakor--portfolio.vercel.app-10B981?style=flat-square&logo=vercel)](https://anil-thakor-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-anilthakor7007%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anilthakor7007@gmail.com)
+
+</div>
+
+---
+
+### 🏛️ Executive Summary
+
+I am a Full Stack Developer with **2 years of professional experience** engineering production-ready web applications. My focus spans designing clean REST APIs, modeling databases, integrating third-party systems, and building responsive frontend interfaces.
+
+```
+       [ Frontend ]  ✦  [ API Layer ]  ✦  [ Infrastructure ]
+  React · Next.js · TS   Node · Express · REST    MongoDB · Docker
+```
+
+- **Core Focus:** Turning business requirements into practical, performant software solutions.
+- **Current Endeavors:** Expanding expertise in **Next.js**, **Docker containerization**, and **Storybook**.
+- **Passions Outside Code:** 🎵 Singing, playing guitar, and music-tech innovation.
+
+---
+
+### 🚀 Featured Project
+
+#### **Sangeet Easy** · [sangeeteasy.com](https://www.sangeeteasy.com/)
+> *A music practice platform designed to make music learning and practice easier for musicians.*
+
+- **Scope:** Full-stack development, frontend & backend architecture, API integration, and user workflow optimization.
+- **Collaboration:** Looking to collaborate on expanding the **Sangeet Easy** practice suite!
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="left">
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript (ES6+), HTML5, CSS3 |
+| **Frontend** | React.js, Next.js, Bootstrap, Tailwind CSS, Storybook |
+| **Backend & APIs** | Node.js, Express.js, REST APIs, Jest |
+| **Databases** | MongoDB, MySQL, Firebase |
+| **Tools & Platforms** | Git, Linux, Docker, Postman, Figma, Babel |
+
+</div>
+
+<br/>
 
 <p align="center">
-  <a href="https://anil-thakor-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0e75b6?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="mailto:anilthakor7007@gmail.com">
-    <img src="https://img.shields.io/badge/✉️%20Email-Contact%20Me-374151?style=for-the-badge" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/thakor-anil/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
 </p>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+[![Anil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilthakor7007&layout=compact&theme=nord&hide_border=true)](https://github.com/anilthakor7007)
+[![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilthakor7007&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/anilthakor7007)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anilthakor7007&theme=nord&hide_border=true)](https://github.com/anilthakor7007)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anilthakor7007&theme=nord&column=6&margin-w=15)](https://github.com/anilthakor7007)
+
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anilthakor7007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thakor-anil/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anilive_)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anilivee)
+
+</div>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anilthakor7007&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <i>Designed with simplicity, structure, and clarity in mind.</i>
 </p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Full Stack Developer with 2+ years of professional experience**, focused on building reliable, scalable, and user-friendly web applications.
-
-I enjoy working across the entire development lifecycle — from designing responsive interfaces and building REST APIs to database design, third-party integrations, testing, and deployment.
-
-I like solving real-world business problems with clean and maintainable code rather than simply building features that work.
-
-### What I bring to the table
-
-- 🚀 Building production-ready web applications
-- ⚛️ Strong experience with **React.js, Next.js & TypeScript**
-- 🟢 Backend development with **Node.js & Express.js**
-- 🗄️ Database experience with **MongoDB & MySQL**
-- 🔌 REST API development and third-party integrations
-- 🧪 Writing and maintaining application tests
-- 🔧 Git-based development and collaborative workflows
-- 📱 Responsive and user-focused UI development
-- 🧩 Experience working with complex business workflows
-
----
-
-## 🔭 Currently Working On
-
-### 🎵 Sangeet Easy
-
-> A music practice platform designed to make music learning and practice easier.
-
-🌐 **Website:** https://www.sangeeteasy.com/
-
-Currently working on building and improving the platform across both frontend and backend, with a focus on:
-
-- Modern and responsive user interfaces
-- Application architecture
-- API development and integrations
-- User-focused workflows
-- Performance and maintainability
-- Scalable backend services
-
----
-
-## 🧠 My Development Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend
-
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-- Responsive UI
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend
-
-- Node.js
-- Express.js
-- REST APIs
-- Authentication
-- Authorization
-- API Integrations
-- Business Logic
-- Error Handling
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🗄️ Database
-
-- MongoDB
-- MySQL
-- Data Modeling
-- Query Optimization
-- Database Relationships
-- CRUD Operations
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Development
-
-- Git
-- GitHub
-- Postman
-- Jest
-- Linux
-- Firebase
-- Figma
-- API Testing
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Technologies & Tools
-
-### Languages
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
-</p>
-
-### Backend & Database
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-</p>
-
-### Tools & Services
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="45" height="45" alt="Jest"/>
-</p>
-
----
-
-## 🚀 What I Like Building
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🌐 Modern Web Applications                                │
-│                                                             │
-│   ⚡ Fast & Responsive User Experiences                     │
-│                                                             │
-│   🔌 REST APIs & Third-Party Integrations                   │
-│                                                             │
-│   🗄️ Scalable Database-Driven Applications                  │
-│                                                             │
-│   🔐 Authentication & Authorization Systems                 │
-│                                                             │
-│   🧩 Complex Business Workflows                             │
-│                                                             │
-│   📊 Data-Driven Dashboards & Applications                  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
